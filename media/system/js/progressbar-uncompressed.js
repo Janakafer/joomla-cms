@@ -8,6 +8,7 @@
  authors:
  - Harald Kirschner <mail [at] digitarald [dot] de>
  - Rouven Weßling <me [at] rouvenwessling [dot] de>
+ - Ashan Fernando
 
  requires: [Core/Fx, Core/Class, Core/Element]
 
